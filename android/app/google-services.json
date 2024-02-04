@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223371884258",
+    "project_id": "keeps-ae624",
+    "storage_bucket": "keeps-ae624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223371884258:android:5ad38044407f121e7550bb",
+        "android_client_info": {
+          "package_name": "com.example.keeps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWHcbRNj4-dWe-vZhnaSrbwHp9pea6sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
